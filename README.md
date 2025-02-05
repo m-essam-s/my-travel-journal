@@ -5,7 +5,7 @@ This project uses a reusable Card component in React to display data dynamically
 ## How to Run
 
 1. Clone the repository
-2. Run `my-travel-journal`
+2. Run `cd my-travel-journal`
 3. Run `npm install`
 4. Run `npm run dev`
 
